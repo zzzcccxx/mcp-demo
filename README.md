@@ -1,1 +1,15 @@
 # mcp-demo
+
+一个基于 python 本地运行 MCP 协议的 server 和 client 样例
+
+1. 安装 uv
+```
+pip install uv
+```
+or
+```
+conda install uv
+```
+2. 运行 server.py
+
+3. 运行 client.py
