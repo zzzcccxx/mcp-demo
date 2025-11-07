@@ -10,6 +10,12 @@ or
 ```
 conda install uv
 ```
-2. 运行 server.py
 
-3. 运行 client.py
+2. 创建工程目录
+```
+uv init mcp-demo
+```
+
+3. 运行 server.py
+
+4. 运行 client.py
